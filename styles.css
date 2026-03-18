@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #FFD700;
+    font-size: "250%";
+}
+        
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+body {
+    color: #FFFFFF;
+    font-size: 110%;
+}
+
+footer {
+    background-color: #333333;
+    padding: 10px;
+    text-align: center;
+}
